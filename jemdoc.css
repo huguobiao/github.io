@@ -365,3 +365,8 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+div.img {
+	width: 600px;
+	text-align: center;
+}
